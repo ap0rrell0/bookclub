@@ -7,7 +7,7 @@ const INITIAL_BOOKS = [
   { id: 13, title: "Mi Isla", author: "Elisabet Benavent", genre: "Contemporary Romance", status: "Read", rating: null, notes: "", cover: "" },
   { id: 12, title: "Pídeme lo que quieras", author: "Megan Maxwell", genre: "Erotic Romance", status: "Read", rating: null, notes: "", cover: "" },
   { id: 11, title: "The Maid", author: "Nita Prose", genre: "Cozy Mystery", status: "Read", rating: null, notes: "", cover: "" },
-  { id: 10, title: "46335", author: "Colleen Hoover", genre: "New Adult Romance", status: "Read", rating: null, notes: "", cover: "" },
+  { id: 10, title: "November 9", author: "Colleen Hoover", genre: "New Adult Romance", status: "Read", rating: null, notes: "", cover: "" },
   { id: 9, title: "Lessons in Chemistry", author: "Bonnie Garmus", genre: "Historical Fiction", status: "Read", rating: null, notes: "", cover: "" },
   { id: 8, title: "Happy Place", author: "Emily Henry", genre: "Contemporary Romance", status: "Read", rating: null, notes: "", cover: "" },
   { id: 7, title: "Un Cuento Perfecto", author: "Elisabet Benavent", genre: "Contemporary Romance", status: "Read", rating: null, notes: "", cover: "" },
